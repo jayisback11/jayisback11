@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 and 2022 Goals: Learn as much about Front End
-- ⚡ Fun fact: I love to spend time with family and friends and relax
+- ⚡ Fun fact: I love to spend time with family and friends, and relax
 
 [website]: jaycrisostomo.com
 [twitter]: https://twitter.com/jayisback11
