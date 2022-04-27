@@ -3,7 +3,7 @@
 ## I'm a Student and Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 and 2022 Goals: Learn as much about Front End
+- 🥅 2022 Goals: Learn as much about Front End
 - ⚡ Fun fact: I love to spend time with family and friends, and relax
 
 [website]: jaycrisostomo.com
