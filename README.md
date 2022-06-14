@@ -1,6 +1,6 @@
 ### Hi there, I'm Jay!
 
-## I'm a Student and Developer!!
+## I'm a Front-End Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn as much about Front End
