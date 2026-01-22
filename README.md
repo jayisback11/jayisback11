@@ -2,8 +2,8 @@
 
 ## I'm a Front-End Developer!!
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn as much about Front End
+- 🌱 I’m currently learning how to take advantage of AI 🤣
+- 🥅 2026 Goals: Learn as much about Front End
 - ⚡ Fun fact: I love to spend time with family and friends, and relax
 
 [website]: jaycrisostomo.com
